@@ -12,5 +12,8 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
